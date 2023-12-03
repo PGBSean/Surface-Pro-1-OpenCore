@@ -2,7 +2,7 @@
 
 This repo lets you download the EFI for the Surface Pro 1 lineup.
 
-[Download the pre-release build](https://github.com/PGBSean/Surface-Pro-1-OpenCore/releases/tag/20231202)
+[Download the pre-release build](https://github.com/PGBSean/Surface-Pro-1-OpenCore/releases/tag/20231203)
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
