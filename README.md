@@ -1,5 +1,5 @@
-### **This EFI is for educational purposes and is not be affiliated with Apple, or Microsoft. You should not ask for help in any forums, servers as it is violating the rules of the community.** 
-#
+### 📢 HELP WANTED!: In order to fix the hazey backlight, it requires in modifying the DSDT, AML file of SSDT-EC, and miscellaneous other things. Feedback is appreciated. ###
+
 
 # Surface-Pro-1-OpenCore
 
